@@ -50,7 +50,7 @@ export function AdminAccessControl({ onAccessGranted, onAccessDenied, onLoadingC
             onAccessGranted();
           } else {
             // Special access for specific emails - debug only
-            if (session.user.email === "kingism@i5s.com" || 
+            if (session.user.email === "kingism@cozync.com" || 
                 session.user.email === "kingism" || 
                 session.user.email === "shubhshri45sv@gmail.com" || 
                 session.user.email === "admin@statusnow.com") {

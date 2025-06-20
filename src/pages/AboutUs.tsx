@@ -66,7 +66,7 @@ export default function AboutUs() {
             <div className="h-16 w-16 rounded-xl bg-gradient-to-br from-primary via-emerald to-gold flex items-center justify-center">
               <Heart className="w-8 h-8 text-white" />
             </div>
-            <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-primary via-emerald to-gold bg-clip-text  ">About i5s</h1>
+            <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-primary via-emerald to-gold bg-clip-text  ">About cozync</h1>
           </div>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
             Empowering entrepreneurs and founders to connect, collaborate, and build the future together
@@ -209,7 +209,7 @@ export default function AboutUs() {
                   <Mail className="w-5 h-5 text-primary" />
                   <div>
                     <p className="font-medium">Email</p>
-                    <p className="text-muted-foreground">hello@i5s.com</p>
+                    <p className="text-muted-foreground">hello@cozync.site</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-3">
@@ -236,7 +236,7 @@ export default function AboutUs() {
               <CardContent className="pt-6">
                 <h3 className="font-semibold mb-2">Join Our Community</h3>
                 <p className="text-muted-foreground text-sm mb-4">
-                  Ready to connect with fellow entrepreneurs? Join i5s today and start building your network.
+                  Ready to connect with fellow entrepreneurs? Join cozync today and start building your network.
                 </p>
                 <Button className="w-full">
                   Get Started

@@ -56,7 +56,7 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({
             setProfile(profileData);
             
             // Check if user is admin - special case for kingism user or has admin flag
-            if (currentSession.user.email === "kingism@i5s.com" || 
+            if (currentSession.user.email === "kingism@cozync.com" || 
                 currentSession.user.email === "kingism" || 
                 profileData?.is_admin ||
                 currentSession.user.email === "shubhshri45sv@gmail.com") {
@@ -84,7 +84,7 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({
           setProfile(profileData);
           
           // Check if user is admin - special case for kingism user or has admin flag
-          if (currentSession.user.email === "kingism@i5s.com" ||
+          if (currentSession.user.email === "kingism@cozync.com" ||
               currentSession.user.email === "kingism" ||
               profileData?.is_admin ||
               currentSession.user.email === "shubhshri45sv@gmail.com") {
@@ -156,7 +156,7 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({
         setProfile(profileData);
         
         // Check if user is admin
-        if (profileData?.is_admin || data.user.email === "kingism@i5s.com" || data.user.email === "kingism" || data.user.email === "shubhshri45sv@gmail.com") {
+        if (profileData?.is_admin || data.user.email === "kingism@cozync.com" || data.user.email === "kingism" || data.user.email === "shubhshri45sv@gmail.com") {
           setIsAdmin(true);
           toast({
             title: "Welcome Admin",

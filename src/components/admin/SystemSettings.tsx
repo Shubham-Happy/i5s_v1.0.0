@@ -12,7 +12,7 @@ import { Alert, AlertDescription } from "@/components/ui/alert";
 
 export function SystemSettings() {
   const [siteSettings, setSiteSettings] = useState({
-    siteName: "i5s",
+    siteName: "cozync",
     siteDescription: "A professional network for entrepreneurs and startup founders"
   });
   

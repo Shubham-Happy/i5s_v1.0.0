@@ -24,7 +24,7 @@ export function ResourceLayout() {
               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-white"><path d="M22 2 11 13"></path><path d="M22 2 15 22 11 13 2 9 22 2z"></path></svg>
             </div>
             <span className="font-bold text-xl bg-gradient-to-r from-statusnow-purple to-statusnow-purple-light   bg-clip-text">
-              i5s
+              cozync
             </span>
           </Link>
           
@@ -70,7 +70,7 @@ export function ResourceLayout() {
                   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-white"><path d="M22 2 11 13"></path><path d="M22 2 15 22 11 13 2 9 22 2z"></path></svg>
                 </div>
                 <span className="font-bold text-xl bg-gradient-to-r from-statusnow-purple to-statusnow-purple-light   bg-clip-text">
-                  i5s
+                  cozync
                 </span>
               </Link>
               <p className="text-sm text-muted-foreground mb-4">
@@ -128,7 +128,7 @@ export function ResourceLayout() {
             <div>
               <h3 className="font-bold mb-4">Contact</h3>
               <ul className="space-y-2">
-                <li className="text-sm text-muted-foreground">Email: info@i5s.com</li>
+                <li className="text-sm text-muted-foreground">Email: info@cozync.com</li>
                 <li className="text-sm text-muted-foreground">San Francisco, CA</li>
               </ul>
             </div>
@@ -136,7 +136,7 @@ export function ResourceLayout() {
           
           <div className="pt-8 border-t border-border flex flex-col md:flex-row justify-between items-center">
             <p className="text-sm text-muted-foreground mb-4 md:mb-0">
-              © {new Date().getFullYear()} i5s. All rights reserved.
+              © {new Date().getFullYear()} cozync. All rights reserved.
             </p>
             <div className="flex gap-6">
               <Link to="/privacy-policy" className="text-sm text-muted-foreground hover:text-foreground transition">Privacy</Link>

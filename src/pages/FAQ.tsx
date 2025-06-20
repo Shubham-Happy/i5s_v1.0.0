@@ -17,8 +17,8 @@ const faqData = [
         answer: "To create an account, click the 'Sign Up' button on the homepage and fill in your details. You'll receive a verification email to confirm your account."
       },
       {
-        question: "Is i5s free to use?",
-        answer: "Yes, i5s offers a free tier with basic features. We also have premium plans with additional features for power users and businesses."
+        question: "Is cozync free to use?",
+        answer: "Yes, cozync offers a free tier with basic features. We also have premium plans with additional features for power users and businesses."
       },
       {
         question: "How do I complete my profile?",
@@ -122,7 +122,7 @@ export default function FAQ() {
           "text-muted-foreground",
           isMobile ? "text-sm" : "text-lg"
         )}>
-          Find answers to common questions about i5s
+          Find answers to common questions about cozync
         </p>
       </div>
 

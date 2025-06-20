@@ -48,7 +48,7 @@ export const useSearch = (searchTerm: string, type?: string) => {
             name: person.full_name || person.username || 'Unknown User',
             username: person.username || '',
             avatar: person.avatar_url,
-            headline: person.bio || person.status || 'i5s User',
+            headline: person.bio || person.status || 'cozync User',
             location: '',
             skills: [],
             followers: Math.floor(Math.random() * 1000), // Mock data
@@ -122,11 +122,11 @@ export const useSearch = (searchTerm: string, type?: string) => {
               id: article.profiles?.id,
               name: article.profiles?.full_name || article.profiles?.username || 'Unknown Author',
               avatar: article.profiles?.avatar_url,
-              role: 'i5s User'
+              role: 'cozync User'
             },
             publishedAt: article.published_at,
             readingTime: article.reading_time || '5 min',
-            tags: article.tags || ['i5s'],
+            tags: article.tags || ['cozync'],
             likes: Math.floor(Math.random() * 100), // Mock data
             comments: Math.floor(Math.random() * 20) // Mock data
           }));

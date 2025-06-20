@@ -14,7 +14,7 @@ major_version = 15
 [studio]
 enabled = true
 port = 54323
-api_url = "http://i5s.in" 
+api_url = "http://cozync.in" 
 
 [inbucket]
 enabled = true
@@ -25,7 +25,7 @@ enabled = true
 
 [auth]
 enabled = true
-site_url = "http://i5s.in" 
+site_url = "http://cozync.in" 
 
 [analytics]
 enabled = false

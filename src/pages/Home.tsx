@@ -84,7 +84,7 @@ export default function Home() {
         <div className="relative p-8 md:p-12 text-center text-white">
           <div className="flex items-center justify-center gap-3 mb-6">
             <Sparkles className="h-8 w-8 animate-pulse" />
-            <h1 className="text-4xl md:text-5xl font-bold">Welcome to i5s</h1>
+            <h1 className="text-4xl md:text-5xl font-bold">Welcome to cozync</h1>
             <Sparkles className="h-8 w-8 animate-pulse" />
           </div>
           <p className="text-xl md:text-2xl opacity-90 mb-8 max-w-3xl mx-auto">

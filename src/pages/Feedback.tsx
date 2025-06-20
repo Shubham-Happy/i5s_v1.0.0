@@ -28,7 +28,7 @@ export default function Feedback() {
     
     toast({
       title: "Feedback Submitted!",
-      description: "Thank you for helping us improve i5s. We'll review your feedback carefully.",
+      description: "Thank you for helping us improve cozync. We'll review your feedback carefully.",
     });
     
     setFeedback({ name: "", email: "", type: "", rating: "", message: "" });
@@ -47,7 +47,7 @@ export default function Feedback() {
           </h1>
         </div>
         <p className="text-muted-foreground text-lg">
-          Your feedback is invaluable in making i5s the best platform for entrepreneurs
+          Your feedback is invaluable in making cozync the best platform for entrepreneurs
         </p>
       </div>
 

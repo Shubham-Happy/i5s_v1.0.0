@@ -52,7 +52,7 @@ const Login = () => {
 
   useEffect(() => {
     if (user) {
-      if (user.email === "kingism" || user.email === "kingism@i5s.com" || user.email === "shubhshri45sv@gmail.com") {
+      if (user.email === "kingism" || user.email === "kingism@cozync.com" || user.email === "shubhshri45sv@gmail.com") {
         navigate("/kingism");
       } else {
         navigate("/home");
@@ -214,7 +214,7 @@ const Login = () => {
                     <Sparkles className="w-6 h-6 text-white" />
                   </div>
                   <h1 className="text-3xl lg:text-4xl font-bold bg-gradient-to-r from-primary via-emerald to-gold bg-clip-text  ">
-                    i5s
+                    cozync
                   </h1>
                 </div>
                 
@@ -271,7 +271,7 @@ const Login = () => {
                       ? "Verify Your Email" 
                       : showResetForm 
                         ? "Reset Password" 
-                        : "Welcome to i5s"
+                        : "Welcome to cozync"
                     }
                   </CardTitle>
                   <CardDescription>

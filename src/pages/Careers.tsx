@@ -98,7 +98,7 @@ export default function Careers() {
         <div>
           <h2 className="text-2xl font-bold mb-4">Our Culture</h2>
           <p className="text-muted-foreground mb-6">
-            At i5s, we're building a team of passionate individuals who believe in the power of entrepreneurship to change the world. We're startup enthusiasts ourselves, and we bring that founder mentality to everything we do.
+            At cozync, we're building a team of passionate individuals who believe in the power of entrepreneurship to change the world. We're startup enthusiasts ourselves, and we bring that founder mentality to everything we do.
           </p>
           <p className="text-muted-foreground">
             Our team is remote-first, diverse, and united by our mission to make the startup journey more accessible and successful for founders everywhere. We value autonomy, impact, and continuous learning in an environment where everyone's voice matters.
@@ -107,7 +107,7 @@ export default function Careers() {
       </div>
       
       <div className="mb-16">
-        <h2 className="text-2xl font-bold mb-8 text-center">Why Join i5s</h2>
+        <h2 className="text-2xl font-bold mb-8 text-center">Why Join cozync</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {benefits.map((benefit, index) => (
             <Card key={index}>
@@ -177,7 +177,7 @@ export default function Careers() {
         <div className="text-center mt-12">
           <h3 className="text-xl font-medium mb-4">Don't see a position that fits your skills?</h3>
           <p className="text-muted-foreground mb-6">
-            We're always looking for talented people to join our team. Send us your resume and tell us why you'd be a great fit for i5s.
+            We're always looking for talented people to join our team. Send us your resume and tell us why you'd be a great fit for cozync.
           </p>
           <Button>Submit an Open Application</Button>
         </div>

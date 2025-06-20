@@ -12,7 +12,7 @@ export default function PrivacyPolicy() {
       
       <div className="prose prose-sm max-w-none dark:prose-invert">
         <p>
-          At i5s, we take your privacy seriously. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our platform.
+          At cozync, we take your privacy seriously. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our platform.
         </p>
         
         <h2 className="text-xl font-bold mt-6 mb-4">Information We Collect</h2>
@@ -94,10 +94,10 @@ export default function PrivacyPolicy() {
           If you have any questions about this Privacy Policy, please contact us at:
         </p>
         <p className="mt-4">
-          i5s, Inc.<br />
+          cozync, Inc.<br />
           1234 Innovation Way<br />
           San Francisco, CA 94103<br />
-          Email: privacy@i5s.com
+          Email: privacy@cozync.com
         </p>
       </div>
     </div>

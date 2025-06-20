@@ -17,19 +17,19 @@ export default function HelpCenter() {
     },
     {
       question: "How can I connect with investors?",
-      answer: "i5s offers several ways to connect with investors. You can participate in funding events listed in the Fundraising section, showcase your startup to gain visibility, or network with investors directly through our Network feature. Make sure your startup profile is complete and compelling to attract investor interest."
+      answer: "cozync offers several ways to connect with investors. You can participate in funding events listed in the Fundraising section, showcase your startup to gain visibility, or network with investors directly through our Network feature. Make sure your startup profile is complete and compelling to attract investor interest."
     },
     {
-      question: "What makes a good startup pitch on i5s?",
-      answer: "A good startup pitch on i5s should be concise yet informative. Include your unique value proposition, the problem you're solving, market opportunity, business model, and current traction. Use visuals where appropriate and clearly state what you're looking for (funding, partnerships, team members, etc.)."
+      question: "What makes a good startup pitch on cozync?",
+      answer: "A good startup pitch on cozync should be concise yet informative. Include your unique value proposition, the problem you're solving, market opportunity, business model, and current traction. Use visuals where appropriate and clearly state what you're looking for (funding, partnerships, team members, etc.)."
     },
     {
-      question: "How do I promote my startup on i5s?",
+      question: "How do I promote my startup on cozync?",
       answer: "You can promote your startup by creating compelling content in the Articles section, engaging with the community through posts and comments, participating in discussions related to your industry, and showcasing your startup in the dedicated Startups section. Regular updates about your progress can also help maintain visibility."
     },
     {
       question: "Can I post job openings for my startup?",
-      answer: "Yes, you can post job openings by navigating to the Jobs section and clicking on 'Post a Job'. Fill in the details about the position including title, description, requirements, and how to apply. These listings will be visible to all i5s members looking for opportunities in the startup ecosystem."
+      answer: "Yes, you can post job openings by navigating to the Jobs section and clicking on 'Post a Job'. Fill in the details about the position including title, description, requirements, and how to apply. These listings will be visible to all cozync members looking for opportunities in the startup ecosystem."
     }
   ];
 

@@ -315,7 +315,7 @@ export default function Search() {
         <div className="text-center mb-8">
           <h1 className="text-3xl font-bold mb-4">Search</h1>
           <p className="text-muted-foreground">
-            Find people, jobs, articles, and companies on i5s
+            Find people, jobs, articles, and companies on cozync
           </p>
         </div>
 

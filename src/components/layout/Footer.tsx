@@ -13,7 +13,7 @@ export function Footer() {
       <footer className="fixed bottom-0 left-0 right-0 bg-white/95 backdrop-blur-lg border-t border-gold-light/30 px-4 py-2 z-30">
         <div className="flex items-center justify-between text-xs text-muted-foreground">
           <div className="flex items-center gap-1">
-            <span>© 2025 i5s. Made with</span>
+            <span>© 2025 cozync. Made with</span>
             <Heart className="h-3 w-3 text-red-500" />
             <span>for entrepreneurs</span>
             <Globe className="h-3 w-3 text-blue-500" />
@@ -39,7 +39,7 @@ export function Footer() {
                 <div className="absolute -top-1 -right-1 w-2 h-2 bg-gradient-to-r from-gold-medium to-gold-accent rounded-full animate-pulse" />
               </div>
               <span className="font-bold text-lg bg-gradient-to-r from-slate-green to-gold-dark   bg-clip-text">
-                i5s
+                cozync
               </span>
             </Link>
             <p className="text-sm text-muted-foreground max-w-xs">
@@ -70,7 +70,7 @@ export function Footer() {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-gold-light/20 flex flex-col md:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-2 text-sm text-muted-foreground">
-            <span>© 2025 i5s. Made with</span>
+            <span>© 2025 cozync. Made with</span>
             <Heart className="h-4 w-4 text-red-500 animate-pulse" />
             <span>for entrepreneurs</span>
             <Globe className="h-4 w-4 text-blue-500" />

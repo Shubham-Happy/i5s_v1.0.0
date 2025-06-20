@@ -29,7 +29,7 @@ export function SidebarLogo({ shouldShowContent, isCollapsed, onToggleCollapse }
         {shouldShowContent && (
           <div className="flex flex-col">
             <span className="font-bold text-xl bg-gradient-to-r from-slate-green to-gold-dark   bg-clip-text">
-              i5s
+              cozync
             </span>
             <span className="text-xs text-muted-foreground">Innovation Hub</span>
           </div>

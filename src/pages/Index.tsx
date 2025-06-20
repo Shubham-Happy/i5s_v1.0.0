@@ -58,7 +58,7 @@ export default function Index() {
               <Rocket className="h-3 w-3 md:h-4 md:w-4 text-white" />
             </div>
             <span className="font-bold text-lg md:text-xl bg-gradient-to-r from-statusnow-purple to-statusnow-purple-light bg-clip-text">
-              i5s
+              cozync
             </span>
           </Link>
           
@@ -291,7 +291,7 @@ export default function Index() {
           <div className="text-center mb-12 md:mb-16 reveal fade-in-up">
             <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-4 md:mb-6 leading-tight">Featured Startups</h2>
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-              Discover innovative startups built and launched with i5s
+              Discover innovative startups built and launched with cozync
             </p>
           </div>
           
@@ -395,7 +395,7 @@ export default function Index() {
                   <Rocket className="h-3 w-3 md:h-4 md:w-4 text-white" />
                 </div>
                 <span className="font-bold text-lg md:text-xl bg-gradient-to-r from-statusnow-purple to-statusnow-purple-light   bg-clip-text">
-                  i5s
+                  cozync
                 </span>
               </Link>
               <p className="text-xs md:text-sm text-muted-foreground mb-3 md:mb-4 leading-relaxed">
@@ -453,7 +453,7 @@ export default function Index() {
             <div>
               <h3 className="font-bold mb-3 md:mb-4 text-sm md:text-base">Contact</h3>
               <ul className="space-y-1 md:space-y-2">
-                <li className="text-xs md:text-sm text-muted-foreground">Email: hello@i5s.in </li>
+                <li className="text-xs md:text-sm text-muted-foreground">Email: hello@cozync.in </li>
                 <li className="text-xs md:text-sm text-muted-foreground">India </li>
               </ul>
             </div>
@@ -461,7 +461,7 @@ export default function Index() {
           
           <div className="pt-6 md:pt-8 border-t border-border flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-xs md:text-sm text-muted-foreground text-center">
-              © {new Date().getFullYear()} i5s. All rights reserved.
+              © {new Date().getFullYear()} cozync. All rights reserved.
             </p>
             <div className="flex gap-4 md:gap-6">
               <Link to="/privacy-policy" className="text-xs md:text-sm text-muted-foreground hover:text-foreground transition">Privacy</Link>

@@ -30,7 +30,7 @@ export function Logo({ size = 'md', type = 'full', className = '' }: LogoProps) 
       </div>
       {type === 'full' && (
         <span className={`font-bold ${textClass} bg-gradient-to-r from-slate-green via-primary to-slate-green/80   bg-clip-text`}>
-          i5s
+          cozync
         </span>
       )}
     </Link>

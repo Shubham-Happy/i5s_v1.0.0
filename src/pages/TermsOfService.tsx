@@ -12,12 +12,12 @@ export default function TermsOfService() {
       
       <div className="prose prose-sm max-w-none dark:prose-invert">
         <p>
-          Please read these Terms of Service ("Terms") carefully before using the i5s platform. By accessing or using our platform, you agree to be bound by these Terms.
+          Please read these Terms of Service ("Terms") carefully before using the cozync platform. By accessing or using our platform, you agree to be bound by these Terms.
         </p>
         
         <h2 className="text-xl font-bold mt-6 mb-4">1. Acceptance of Terms</h2>
         <p>
-          By accessing or using the i5s platform, you agree to be bound by these Terms and all applicable laws and regulations. If you do not agree with any of these Terms, you are prohibited from using or accessing the platform.
+          By accessing or using the cozync platform, you agree to be bound by these Terms and all applicable laws and regulations. If you do not agree with any of these Terms, you are prohibited from using or accessing the platform.
         </p>
         
         <h2 className="text-xl font-bold mt-6 mb-4">2. User Accounts</h2>
@@ -33,7 +33,7 @@ export default function TermsOfService() {
         
         <h2 className="text-xl font-bold mt-6 mb-4">3. User Content</h2>
         <p>
-          You retain all ownership rights to the content you post on i5s. However, by posting content, you grant us a non-exclusive, royalty-free, transferable, sublicensable, worldwide license to use, display, reproduce, and distribute your content in connection with operating and promoting the platform.
+          You retain all ownership rights to the content you post on cozync. However, by posting content, you grant us a non-exclusive, royalty-free, transferable, sublicensable, worldwide license to use, display, reproduce, and distribute your content in connection with operating and promoting the platform.
         </p>
         <p>
           You are solely responsible for the content you post and agree that you will not post content that:
@@ -50,10 +50,10 @@ export default function TermsOfService() {
         
         <h2 className="text-xl font-bold mt-6 mb-4">4. Intellectual Property</h2>
         <p>
-          The i5s name, logo, and all related names, logos, product and service names, designs, and slogans are trademarks of i5s or its affiliates. You may not use these without our prior written permission.
+          The cozync name, logo, and all related names, logos, product and service names, designs, and slogans are trademarks of cozync or its affiliates. You may not use these without our prior written permission.
         </p>
         <p>
-          All content on the platform, including text, graphics, logos, icons, images, audio clips, digital downloads, and software, is the property of i5s or its content suppliers and is protected by copyright, trademark, and other intellectual property laws.
+          All content on the platform, including text, graphics, logos, icons, images, audio clips, digital downloads, and software, is the property of cozync or its content suppliers and is protected by copyright, trademark, and other intellectual property laws.
         </p>
         
         <h2 className="text-xl font-bold mt-6 mb-4">5. Platform Rules and Conduct</h2>
@@ -87,7 +87,7 @@ export default function TermsOfService() {
         
         <h2 className="text-xl font-bold mt-6 mb-4">9. Limitation of Liability</h2>
         <p>
-          To the fullest extent permitted by law, i5s shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or relating to your use of the platform.
+          To the fullest extent permitted by law, cozync shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or relating to your use of the platform.
         </p>
         
         <h2 className="text-xl font-bold mt-6 mb-4">10. Changes to Terms</h2>
@@ -105,10 +105,10 @@ export default function TermsOfService() {
           If you have any questions about these Terms, please contact us at:
         </p>
         <p className="mt-4">
-          i5s, Inc.<br />
+          cozync, Inc.<br />
           1234 Innovation Way<br />
           San Francisco, CA 94103<br />
-          Email: legal@i5s.com
+          Email: legal@cozync.com
         </p>
       </div>
     </div>
